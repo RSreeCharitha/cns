@@ -1,4 +1,5 @@
 #VIGNERE DECRYPTION
+# Di = (Ei - Ki + 26) mod 26
 p = input('Enter cipher text: ')
 k = input('Enter keyword: ')
 
