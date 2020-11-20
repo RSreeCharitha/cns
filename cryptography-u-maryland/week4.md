@@ -1,6 +1,5 @@
 1. Question 1
 True or false: CBC-mode encryption with PKCS #5 padding provides message integrity, as long as the receiver makes sure to verify the padding upon decryption.
-  - True
   - **False**
 2. Question 2
 Let FF be a block cipher with nn-bit block length. Consider the message authentication code for 2n2n-bit messages defined by {\sf Mac}_k(m_1, m_2) = F_k(m_1 \oplus m_2)Mac 
