@@ -1,4 +1,4 @@
-#VIGNERE ENCRYPTION
+#VERNAM ENCRYPTION
 # Plain text and keyword length must be same
 # For generating key, the given keyword is repeated in a circular manner until it matches the length of the plain text.
 # Ei = (Pi + Ki) mod 26
